@@ -17,3 +17,8 @@ with col2:
     """
     st.info(content)
 
+
+content2 = """
+Below you can find more of my apps. Please contact me for any support!
+"""
+st.write(content2)
